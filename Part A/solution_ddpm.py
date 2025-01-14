@@ -147,6 +147,3 @@ class ReverseDiffusionPrediction(nn.Module):
             return x0
         else:
             return output  # Predicted noise (epsilon)
-
-
-# Define your dataset, optimizer, and training loop
