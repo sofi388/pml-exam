@@ -16,7 +16,7 @@ pip install -r requirements.txt
 
 ## Usage
 
-Each solution is provided in a separate Jupyter notebook or Python script. You can run the notebooks using Jupyter Notebook or JupyterLab. To start Jupyter Notebook, use the following command:
+Each solution is provided in a separate Jupyter notebook or Python script. You can run the notebooks using Google Colab, Jupyter Notebook or JupyterLab. To start Jupyter Notebook, use the following command:
 
 ```bash
 jupyter notebook
