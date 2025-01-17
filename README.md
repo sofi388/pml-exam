@@ -1,14 +1,11 @@
-# Probabilistic Machine Learning Solutions
+# Probabilistic Machine Learning Project
 
-Welcome to the repository for Probabilistic Machine Learning Exam Solution. This repository contains solutions to both parts A and B programming related tasks.
+Welcome to the repository for Probabilistic Machine Learning Final Project (Exam). This repository contains solutions to both parts A and B.
 
-## Introduction
-
-This repository provides solutions to exercises and problems from the Probabilistic Machine Learning course. The solutions are intended to help students understand the concepts and methods used in probabilistic machine learning.
 
 ## Installation
 
-To use the solutions provided in this repository, you need to have Python installed on your system. Additionally, you may need to install some dependencies. You can install the required dependencies using the following command:
+You can install the required dependencies using the following command:
 
 ```bash
 pip install -r requirements.txt
